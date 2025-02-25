@@ -28,12 +28,12 @@ const Navbar = () => {
                     <div className="flex justify-between items-center h-16">
                         {/* Logo/Name */}
                         <div className="flex-shrink-0 pt-2">
-                            {/* <span className="text-xl font-bold text-gray-800">Mine Vault</span> */}
-                            <Image
+                            <span className="text-xl font-bold text-gray-800">Mine Vault</span>
+                            {/* <Image
                             src={logo}
                             alt='logo'
                             width={180}
-                            height={180} />
+                            height={180} /> */}
                         </div>
 
                         {/* Desktop User Button */}
